@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aswin%20Krishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Python%20Developer%20%7C%20Web%20Developer&descAlignY=58&descSize=18" />
+
+</div>
+
+<div align="center">
+
+### 🚀 Building AI/ML Projects | Web Apps | Real-World Tech Solutions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/Aswin_krishn4_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aswinkrishnanjr13@gmail.com)
+
+</div>
+
+---
+
 # 💫 About Me:
 👋 About Me<br><br>🔭 I’m a 3rd-year B.Tech student in Artificial Intelligence & Machine Learning at VAST, passionate about building technology that solves real-world problems.<br><br>🌱 I’m currently expanding my skills in AI/ML, Python, and Full-Stack Web Development, with a strong focus on hands-on learning.<br><br>💡 My recent projects include Plant Disease Detection using AI, an Electricity Saver System, and websites for local shops and businesses.<br><br>👯 I’m always open to collaborating on innovative projects related to Artificial Intelligence, Machine Learning, and Web Development.<br><br>🤝 I’m actively looking for opportunities to contribute to open-source projects, participate in hackathons, and work with developers who enjoy creating impactful solutions.<br><br>💬 Ask me about Python, AI/ML basics, web development, or project building.<br><br>⚡ Fun Fact: I prefer practical implementation over theory and believe that the best way to learn is by building. In team projects, I naturally take ownership and responsibility to ensure the work gets completed. One of my biggest strengths is persistence—I don’t give up until I find a solution.
 
